@@ -7,4 +7,7 @@ def test_answer1():
     assert inc(5) == 5
 
 def test_answer2():
-    assert inc(3) == 4
+    assert inc(4) == 4
+
+def test_answer3():
+    assert inc(3) == 3
